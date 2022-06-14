@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.MD",
+            "file": "Research/docker.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.MD",
+                "file": "Research/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,15 @@
   },
   "active": "9e3c6aa48319a88e",
   "lastOpenFiles": [
-    "README.MD"
+    "Research/docker.md",
+    "Research/auth.md",
+    "Learing outcomes/8 Professional.md",
+    "Learing outcomes/7 Business processes.md",
+    "Learing outcomes/6 Requirements and Design.md",
+    "Learing outcomes/5 Cultural differences and ethics.md",
+    "Learing outcomes/4 CICD.md",
+    "Learing outcomes/3 Agile method.md",
+    "Learing outcomes/2 Software quality.md",
+    "Learing outcomes/1 Web application.md"
   ]
 }
