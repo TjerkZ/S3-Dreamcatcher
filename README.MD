@@ -1,13 +1,12 @@
 # Dream Catcher
-Dreamcatcher is a site for saving dreams and analysing dream patrens.
-This app is for those how don't want to forget the dreams they had. You can see the freqensy that you remeber dreams and when you had nightmares.  With tags and key words we can analyse the dreams and give posible explantions for the events.
+Dreamcatcher is a site for saving dreams and analysing dream patterns.
+This app is for those who don't want to forget the dreams they had. You can see the frequency that you remember dreams and when you had nightmares.  With tags and keywords, we can analyze the dreams and give possible explanations for the events.
 
-## c4 models
-### C2
-dit is een c2 model
+## Table of contents
+- 
+- asdfasdf
 
-### c3
-dit is een c3 model
-[go to link](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/Documentation/C4.md)
+
+[go to link](Documentation/C4)
 
 
