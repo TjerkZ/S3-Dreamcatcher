@@ -8,6 +8,6 @@ dit is een c2 model
 
 ### c3
 dit is een c3 model
-[[Documentation/C4 | link to C4 ]]
+[go to link](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/Documentation/C4.md)
 
 
