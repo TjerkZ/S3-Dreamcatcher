@@ -8,6 +8,6 @@ dit is een c2 model
 
 ### c3
 dit is een c3 model
-[[C4 | ]]
+[[Documentation/C4 | link to C4 ]]
 
 
