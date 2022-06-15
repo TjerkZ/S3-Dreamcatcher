@@ -14,13 +14,13 @@ But the main reason that docker is so popular is the ease of deployment. Every s
 ## how to use docker
 In order to use docker you have to install the docker application. this can either be for a small single server or an entire server room with multiple servers. 
 ### Docker hub
-docker hub is the cloud service of docker. you can push images to your hub this way it is easy to pull them from a diverent machine. the other big advantage is that you can easly share the images with others that want to run a conatainer whith your app
+docker hub is the cloud service of docker. you can push images to your hub this way it is easy to pull them from a diverent machine. The other big advantage is that you can easly share the images with others that want to run a conatainer whith your app
 
 ### Docker file
 For docker to build an image you need to configre a dockerifle. This file contains every thing docker needs inorder to run the application. usualy it contains 3 sections:
 - Install tools that your application uses
 - Installl and/or update Dependencys of the application
-- genarate the applciation
+- Genarate the applciation
 The file i use for my dotnet 6 application looks like this: [dockerfile dreamcatcher](https://github.com/TjerkZ/s3-dreamcatcher-api/blob/124849a110c679003190728fd0071af236a29e98/s3-dreamcatcher-api/Dockerfile)
 
 ### Docker compose 
