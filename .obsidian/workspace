@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6391a796e875d7cb",
+        "id": "dad1eba3ca396a0d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6391a796e875d7cb",
+  "active": "dad1eba3ca396a0d",
   "lastOpenFiles": [
     "README.MD",
-    "outcome 1 web application.md",
-    "(1.md",
-    "Research/auth.md",
-    "Research/docker.md",
-    "assets/abstract_flow.png",
+    "Pasted image 20220615212138.png",
+    "Pasted image 20220616005438.png",
+    "Pasted image 20220615212149.png",
+    "Learing outcomes/3 Agile method.md",
     "Learing outcomes/2 Software quality.md",
+    "assets/eeventify_postman_test.png",
+    "assets/eeventify_postman_monitor.png",
     "Learing outcomes/1 Web application.md",
-    "1.md",
-    "Learing outcomes/8 Professional.md"
+    "Research/auth.md"
   ]
 }
