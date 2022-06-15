@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a3a7881082fb4ce5",
+        "id": "6391a796e875d7cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3a7881082fb4ce5",
+  "active": "6391a796e875d7cb",
   "lastOpenFiles": [
     "README.MD",
+    "outcome 1 web application.md",
+    "(1.md",
     "Research/auth.md",
-    "Learing outcomes/1 Web application.md",
-    "Learing outcomes/2 Software quality.md",
-    "1.md",
-    "Documentation/C4.md",
     "Research/docker.md",
-    "Go.md",
-    "Learing outcomes/8 Professional.md",
-    "Learing outcomes/7 Business processes.md"
+    "assets/abstract_flow.png",
+    "Learing outcomes/2 Software quality.md",
+    "Learing outcomes/1 Web application.md",
+    "1.md",
+    "Learing outcomes/8 Professional.md"
   ]
 }
