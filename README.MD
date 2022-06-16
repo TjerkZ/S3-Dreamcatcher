@@ -24,7 +24,7 @@ In the c2 diagram below you see that a user has acces to the dreamcatcher react 
 
 ### C3
 This C3 model shows how the ---ddsf--- works.  
-![[C3.png]]
+![[assets/C3.png]]
 
 # Learing outcomes
 These are the learing outcomes with a small discription for this semester. 
