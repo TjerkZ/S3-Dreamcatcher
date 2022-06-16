@@ -3,27 +3,33 @@
 # Introduction
 In this document is al the progress i made in semester 3 it contains all the reacherch i have done, the repository with the projects and the learingoutcomes. for each section there is a small introduction and a link that go's to the in depth document.
 
-## Table of contents
-- Introduction
+## Table of content
+- [Introduction](#introduction)
 - [C4](#c4)
+	- [C2](#c2)
+	- [C3](#c3)
 - [Learing outcomes](#learing-outcomes)
 	- [Persenal project](#personal-learing-outcomes)
 	- [Group project](#group-project-outcomes)
 - [Research](#research)
 	- [auth0](#auth0)
 	- [docker](#docker)
-- [Aplications]()
-	- C# dotnet 6 API
-	- React frontend
+- [Repositories](#repositories)
+	- [Dreamcatcher api](#s3-dreamcatcher-api)
+	- [React](#s3-dreamcatcher-react)
+	- [Eventify](#eventify)
 
-## C4
-### c2
+# C4
+In this semester i made a application that i called dreamcatcher. The models below show how the project is setup and how the diverent components interact with eachother.
+
+## c2
 In the c2 diagram below you see that a user has acces to the dreamcatcher react site. The site uses the external service Auth0 to autenticate the user. The site can send http reqests to the API to retive data in json format.
+
 ![C2 model](https://github.com/TjerkZ/S3-Dreamcatcher/blob/7d72e6135eed8d9864bb8c081bea2c1d2d5b754e/assets/C2.png)
 
 
-### C3
-This C3 model shows how the API works.  
+## C3
+This C3 model shows how the API is setup and how all the components depend on eachother. As you can see the controller uses the authenticator to see if the provided authentication token is valid. afther that it reqests data from the logic layer. The locig gets all the requid data from the DAL and sends it back. lastly the controller makes a json from the data and sends it to the react site.
 ![C3 model](https://github.com/TjerkZ/S3-Dreamcatcher/blob/9206bc2a88d0cbde1c16a488093df0c97034036a/assets/C3.png)
 
 # Learing outcomes
@@ -61,4 +67,7 @@ These are my learingoutocomes for my personal project
 ## Docker
 - [docker research]()
 
-# Aplication
+# Repositories
+## s3-dreamcatcher-api
+## s3-dreamcatcher-react
+## eventify
