@@ -5,7 +5,7 @@ In this document is al the progress i made in semester 3 it contains all the rea
 
 ## Table of contents
 - Introduction
-- [C4](https://github.com/TjerkZ/S3-Dreamcatcher#c4)
+- [C4](S3-Dreamcatcher#c4)
 - [Learing outcomes](S3-Dreamcatcher#learing-outcomes)
 	- [Persenal project](https://github.com/TjerkZ/S3-Dreamcatcher#personal-learing-outcomes)
 	- [Group project](https://github.com/TjerkZ/S3-Dreamcatcher#group-project-outcomes)
