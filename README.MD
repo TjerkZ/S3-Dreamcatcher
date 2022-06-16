@@ -5,14 +5,14 @@ In this document is al the progress i made in semester 3 it contains all the rea
 
 ## Table of contents
 - Introduction
-- [C4](S3-Dreamcatcher#c4)
-- [Learing outcomes](S3-Dreamcatcher#learing-outcomes)
-	- [Persenal project](https://github.com/TjerkZ/S3-Dreamcatcher#personal-learing-outcomes)
-	- [Group project](https://github.com/TjerkZ/S3-Dreamcatcher#group-project-outcomes)
-- Research
-	- auth0
-	- docker
-- Aplications
+- [C4](#c4)
+- [Learing outcomes](#learing-outcomes)
+	- [Persenal project](#personal-learing-outcomes)
+	- [Group project](#group-project-outcomes)
+- [Research](#research)
+	- [auth0](#auth0)
+	- [docker](#docker)
+- [Aplications]()
 	- C# dotnet 6 API
 	- React frontend
 
@@ -56,7 +56,9 @@ These are my learingoutocomes for my personal project
 - [8 Professional](https://github.com/TjerkZ/S3-Dreamcatcher/blob/09a8772e60d5c040f4d7884de39341a8fd3e6254/Learing%20outcomes/8%20Professional.md)
 
 # Research
+## Auth0
 - [Auth0 research]()
+## Docker
 - [docker research]()
 
-
+# Aplication
