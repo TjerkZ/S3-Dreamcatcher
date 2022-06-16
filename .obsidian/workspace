@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.MD",
+            "file": "Learing outcomes/2 Software quality.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.MD",
+                "file": "Learing outcomes/2 Software quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "dad1eba3ca396a0d",
   "lastOpenFiles": [
+    "Learing outcomes/2 Software quality.md",
     "README.MD",
     "Learing outcomes/4 CICD.md",
     "Learing outcomes/3 Agile method.md",
-    "Learing outcomes/2 Software quality.md",
     "Learing outcomes/1 Web application.md",
     "Documentation/C4.md",
     "assets/abstract_flow.png",
