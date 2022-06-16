@@ -5,8 +5,8 @@ In this document is al the progress i made in semester 3 it contains all the rea
 
 ## Table of contents
 - Introduction
-- [C4](https://github.com/TjerkZ/S3-Dreamcatcher#c4)
-- [Learing outcomes](https://github.com/TjerkZ/S3-Dreamcatcher#learing-outcomes)
+- [C4](S3-Dreamcatcher#c4)
+- [Learing outcomes](S3-Dreamcatcher#learing-outcomes)
 	- [Persenal project](https://github.com/TjerkZ/S3-Dreamcatcher#personal-learing-outcomes)
 	- [Group project](https://github.com/TjerkZ/S3-Dreamcatcher#group-project-outcomes)
 - Research
@@ -24,7 +24,7 @@ In the c2 diagram below you see that a user has acces to the dreamcatcher react 
 
 ### C3
 This C3 model shows how the ---ddsf--- works.  
-![[C3.png]]
+![C3 model](https://github.com/TjerkZ/S3-Dreamcatcher/blob/9206bc2a88d0cbde1c16a488093df0c97034036a/assets/C3.png)
 
 # Learing outcomes
 These are the learing outcomes with a small discription for this semester. 
