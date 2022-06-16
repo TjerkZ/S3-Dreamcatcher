@@ -19,11 +19,11 @@ In this document is al the progress i made in semester 3 it contains all the rea
 ## C4
 ### c2
 In the c2 diagram below you see that a user has acces to the dreamcatcher react site. The site uses the external service Auth0 to autenticate the user. The site can send http reqests to the API to retive data in json format.
-![[]]
+![C2 model](https://github.com/TjerkZ/S3-Dreamcatcher/blob/7d72e6135eed8d9864bb8c081bea2c1d2d5b754e/assets/C2.png)
 
 
 ### C3
-This C3 model shows how the ---ddsf--- works.  
+This C3 model shows how the API works.  
 ![C3 model](https://github.com/TjerkZ/S3-Dreamcatcher/blob/9206bc2a88d0cbde1c16a488093df0c97034036a/assets/C3.png)
 
 # Learing outcomes
