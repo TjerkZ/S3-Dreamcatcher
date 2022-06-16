@@ -20,4 +20,4 @@ For the login I use auth0 so users can login with a account that they can make o
 For the backend i made a API with C# ASP.NET core. This api provides the data for the frontend in Json format. The reason that i made it in C# is beqause i wanted to becaome beter and had never made a API with C#.
 
 For the documentatin of the API i used Swagger. Swagger auto documents the API and gives a easy to use user interface. you can see all the endpoint and test them this way it is easyer to implement them in the frontend.
-[swagger.png](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/Swagger.png)
+![swagger.png](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/Swagger.png)
