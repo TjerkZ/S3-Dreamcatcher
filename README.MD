@@ -49,7 +49,7 @@ These are the learing outcomes with a small discription for this semester.
 ## Personal learing outcomes
 These are my learingoutocomes for my personal project
 - [1 Web application](https://github.com/TjerkZ/S3-Dreamcatcher/blob/09a8772e60d5c040f4d7884de39341a8fd3e6254/Learing%20outcomes/1%20Web%20application.md)
-- [2 Software quality](https://github.com/TjerkZ/S3-Dreamcatcher/blob/09a8772e60d5c040f4d7884de39341a8fd3e6254/Learing%20outcomes/2%20Software%20quality.md)
+- [2 Software quality](https://github.com/TjerkZ/S3-Dreamcatcher/blob/aa5efc06ecf2dcdce698a802109d36c3ace3e98f/Learing%20outcomes/2%20Software%20quality.md)
 - [4 CICD](https://github.com/TjerkZ/S3-Dreamcatcher/blob/09a8772e60d5c040f4d7884de39341a8fd3e6254/Learing%20outcomes/4%20CICD.md)
 - [8 Professional](https://github.com/TjerkZ/S3-Dreamcatcher/blob/09a8772e60d5c040f4d7884de39341a8fd3e6254/Learing%20outcomes/8%20Professional.md)
 
