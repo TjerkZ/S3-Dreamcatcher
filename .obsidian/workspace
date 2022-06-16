@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.MD",
+            "file": "Learing outcomes/3 Agile method.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.MD",
+                "file": "Learing outcomes/3 Agile method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "dad1eba3ca396a0d",
   "lastOpenFiles": [
+    "Learing outcomes/3 Agile method.md",
+    "Learing outcomes/2 Software quality.md",
+    "Learing outcomes/1 Web application.md",
     "README.MD",
     "Pasted image 20220615212138.png",
     "Pasted image 20220616005438.png",
     "Pasted image 20220615212149.png",
-    "Learing outcomes/3 Agile method.md",
-    "Learing outcomes/2 Software quality.md",
     "assets/eeventify_postman_test.png",
     "assets/eeventify_postman_monitor.png",
-    "Learing outcomes/1 Web application.md",
     "Research/auth.md"
   ]
 }
