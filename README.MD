@@ -1,10 +1,10 @@
-<<<<<<< Updated upstream
+
 # Dream Catcher Portfolio
-=======
-# Dream Catcher
->>>>>>> Stashed changes
+# Introduction
+In this document is al the progress i made in semester 3 it contains all the reacherch i have done, the repository with the projects and the learingoutcomes. for each section there is a small introduction and a link that go's to the in depth document.
+
 ## Table of contents
-- Intro
+- Introduction
 - Learing outcomes
 	- Persenal project
 	- Group project
@@ -15,23 +15,15 @@
 	- C# dotnet 6 API
 	- React frontend
 
-<<<<<<< Updated upstream
-# Introduction
-In this document is al the progress i made in semester 3 it contains all the reacherch i have done, the repository with the projects and the learingoutcomes. for each section there is a small introduction and a link that go's to the in depth document.
-=======
-## Intro
-Dreamcatcher is a site for saving dreams and analysing dream patterns.
-This app is for those who don't want to forget the dreams they had. You can see the frequency that you remember dreams and when you had nightmares.  With tags and keywords, we can analyze the dreams and give possible explanations for the events.
-
 ## C4
 ### c2
 In the c2 diagram below you see that a user has acces to the dreamcatcher react site. The site uses the external service Auth0 to autenticate the user. The site can send http reqests to the API to retive data in json format.
-
+![[]]
 
 
 ### C3
-
->>>>>>> Stashed changes
+This C3 model shows how the ---ddsf--- works.  
+![[C3.png]]
 
 # Learing outcomes
 These are the learing outcomes with a small discription for this semester. 
@@ -48,15 +40,11 @@ These are the learing outcomes with a small discription for this semester.
 
 
 ## Personal learing outcomes
-<<<<<<< Updated upstream
 These are my learingoutocomes for my personal project
 - [1 Web application](https://github.com/TjerkZ/S3-Dreamcatcher/blob/09a8772e60d5c040f4d7884de39341a8fd3e6254/Learing%20outcomes/1%20Web%20application.md)
 - [2 Software quality](https://github.com/TjerkZ/S3-Dreamcatcher/blob/09a8772e60d5c040f4d7884de39341a8fd3e6254/Learing%20outcomes/2%20Software%20quality.md)
 - [4 CICD](https://github.com/TjerkZ/S3-Dreamcatcher/blob/09a8772e60d5c040f4d7884de39341a8fd3e6254/Learing%20outcomes/4%20CICD.md)
 - [8 Professional](https://github.com/TjerkZ/S3-Dreamcatcher/blob/09a8772e60d5c040f4d7884de39341a8fd3e6254/Learing%20outcomes/8%20Professional.md)
-=======
-- 
->>>>>>> Stashed changes
 
 ## Group project outcomes
 - [1 Web application](https://github.com/TjerkZ/S3-Dreamcatcher/blob/09a8772e60d5c040f4d7884de39341a8fd3e6254/Learing%20outcomes/1%20Web%20application.md)
@@ -65,9 +53,9 @@ These are my learingoutocomes for my personal project
 - [6 Requirements and design](https://github.com/TjerkZ/S3-Dreamcatcher/blob/09a8772e60d5c040f4d7884de39341a8fd3e6254/Learing%20outcomes/6%20Requirements%20and%20Design.md)
 - [7 Business processes](https://github.com/TjerkZ/S3-Dreamcatcher/blob/09a8772e60d5c040f4d7884de39341a8fd3e6254/Learing%20outcomes/7%20Business%20processes.md)
 - [8 Professional](https://github.com/TjerkZ/S3-Dreamcatcher/blob/09a8772e60d5c040f4d7884de39341a8fd3e6254/Learing%20outcomes/8%20Professional.md)
+
 # Research
-## auth0 research
-For the security reasearch i did reachch in auth0. this is a serice
-## docker research
+- [Auth0 research]()
+- [docker research]()
 
 
