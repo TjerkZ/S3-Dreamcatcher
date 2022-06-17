@@ -2,7 +2,7 @@
 You use software **tooling and methodology** that continuously monitors and improve the software quality during software development.
 
 # Unit tests
-For the API i wrote some unit tests. this way when i made changes to the logic i could see if they still gave the exepected resualt.
+For the API i wrote some unit tests. this way when i made changes to the logic i could see if they still gave the exepected results. 
 
 
 # Static code analysis
@@ -18,3 +18,6 @@ In the group project we made integration test with postman to test the API servi
 
 Because the test ran every day the preformance and uptime of the server could be monitored. This was especialy usefull for me sinse i was running the services on my home server and could restore it when it went down.
 ![[eeventify_postman_monitor.png]]
+
+## Dreamcatcher
+For dreamcatcher i also made a intergration test with postman. 
