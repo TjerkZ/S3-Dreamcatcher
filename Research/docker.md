@@ -1,5 +1,5 @@
 # How to use Docker
-## intro
+## Intro
 For this semester we had to deploy a full stack web application with a cicd pipeline. I needed a way to deploy the services I created i quiqly came acros a way to deploy services called docker. Docker fitted in perfectly in with the CICD pipeline 
 
 ## What is docker
@@ -11,7 +11,7 @@ Docker was created whit the intetion to solve the problem: "It works on my machi
 
 But the main reason that docker is so popular is the ease of deployment. Every server that runs docker can run every docker container despite OS or hardware. 
 
-## how to use docker
+## How to use docker
 In order to use docker you have to install the docker application. this can either be for a small single server or an entire server room with multiple servers. 
 ### Docker hub
 docker hub is the cloud service of docker. you can push images to your hub this way it is easy to pull them from a diverent machine. The other big advantage is that you can easly share the images with others that want to run a conatainer whith your app
