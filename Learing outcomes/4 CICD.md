@@ -3,7 +3,7 @@ You **implement** a (semi)automated software release process that matches the ne
 # API
 For the CICD of the API i made 2 branches on github on for development and a main. If shomething is pushed to the main brench i set up github actions to build, test and publish it. 
 
-## main.yml
+## Github Actions
 I made 2 files that githubaction can use, the [main.yml](https://github.com/TjerkZ/s3-dreamcatcher-api/blob/master/.github/workflows/main.yml) First builds the app. This is the code you see under the build job. afther that it creates a docker image an pushes that to docker hub. that part is under the publish job.
 
 ```
@@ -86,7 +86,6 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
 ```
 
-## build.yml
 The [build.yml](https://github.com/TjerkZ/s3-dreamcatcher-api/blob/master/.github/workflows/build.yml) file is for testing the application with static code analyses from sonarcloud. after the job is done executing the resualts are on sonarclouds website where you than can monitor issues.
 
 ```
@@ -139,14 +138,9 @@ jobs:
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
 ```
 
-
-
-
 # React Site
 
 The CICD of the react site the procces is identical to CICD of the API. When I commit to the main brench of the react site repository it gets tested, build and pushed to docker hub using github actions. Github uses the build.yml file below to do this. 
-
-
 
 ```
 # This is a basic workflow to help you get started with Actions
@@ -207,7 +201,7 @@ jobs:
 While not in the github actions the react site is also being monitored by sonarcloud. this is done automaticly by sonarcloud when i push somthing to main.
 
 # Docker
-When its on docker hub I can pull it to my homeserver where i run the API. To run all the service in docker i made a docker compse. The docker compse file contains:
+When the docker images are on docker hub I can pull it to my homeserver where i run the API and the site. To run all the service in docker i made a docker compse. The docker compse file contains:
 - react site
 - API
 - SQL container
@@ -219,6 +213,6 @@ Compose file
 ```
 
 ## Watchtower
-With [Watchtower](https://containrrr.dev/watchtower/) The lates image gets pulled from dockerhub. I configured watchtower to check dockerhub every 10 minits so when i commit to main it takes around 10 minutes for the new version to go live.
+With [Watchtower](https://containrrr.dev/watchtower/) The lates image gets pulled from dockerhub. I configured watchtower to check dockerhub every 10 minits so when i commit to main it takes around 10 minutes for the new version to go live. This way the deployment of new versions is automatic.
 
 # Eventify
