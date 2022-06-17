@@ -14,10 +14,10 @@ with sonarcloud you can see even more infromation like the history of the applic
 # integration test
 ## Eventify
 In the group project we made integration test with postman to test the API services. These tests became an esential part of the project. They showed us if all the endpoints of the services where running
-![[eeventify_postman_test.png]]
+![eeventify_postman_test.png](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/eeventify_postman_test.png)
 
 Because the test ran every day the preformance and uptime of the server could be monitored. This was especialy usefull for me sinse i was running the services on my home server and could restore it when it went down.
-![[eeventify_postman_monitor.png]]
+![eeventify_postman_monitor.png](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/eeventify_postman_monitor.png)
 
 ## Dreamcatcher
 For dreamcatcher i also made a intergration test with postman. 
