@@ -1,10 +1,10 @@
 # CICD
 You **implement** a (semi)automated software release process that matches the needs of the project context.
 # API
-For the CICD of the API I made 2 branches on GitHub on for development and a main. If something is pushed to the main branch, I set up GitHub actions to build, test and publish it.
+For the CICD of the API, I made 2 branches on GitHub one for development and one main branch. If something is pushed to the main branch, I've set up a GitHub action to build, test, and publish the app.
 
 ## Github Actions
-I made 2 files that GitHub action can use, the [main.yml](https://github.com/TjerkZ/s3-dreamcatcher-api/blob/master/.github/workflows/main.yml) First builds the app. This is the code you see under the build job. after that, it creates a docker image and pushes that to docker hub. That part is under the publish job.
+I made 2 files that GitHub action can use, the [main.yml](https://github.com/TjerkZ/s3-dreamcatcher-api/blob/master/.github/workflows/main.yml) First builds the app. This is the code you see under the build job. after that, it creates a docker image and pushes that to Docker hub. That part is under the publish job.
 
 ```yml
 name: .NET
@@ -86,7 +86,7 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
 ```
 
-The [build.yml](https://github.com/TjerkZ/s3-dreamcatcher-api/blob/master/.github/workflows/build.yml) file is for testing the application with static code analyses from Sonarcloud. After the job is done executing, the results are on Sonarcloud website where you then can monitor issues.
+The [build.yml](https://github.com/TjerkZ/s3-dreamcatcher-api/blob/master/.github/workflows/build.yml) file is for testing the application with static code analyses from Sonarcloud. After the job is done executing, the results are on the Sonarcloud website where you then can monitor issues.
 
 ```yml
 name: Build
@@ -140,7 +140,7 @@ jobs:
 
 # React Site
 
-The CICD of the React site is nearly identical to CICD of the API. When I commit to the main branch of the React site repository, it gets tested, build and pushed to docker hub using GitHub actions. GitHub uses the build.yml file below to do this.
+The CICD of the React site is nearly identical to CICD of the API. When I commit to the main branch of the React site repository, it gets tested, build, and pushed to Docker hub using GitHub actions. GitHub uses the build.yml file below to do this.
 
 ```yml
 # This is a basic workflow to help you get started with Actions
@@ -198,10 +198,10 @@ jobs:
         tags: ${{ secrets.DOCKERHUB_USERNAME }}/frontend:latest
 ```
 
-While not in the GitHub actions, the React site is also being monitored by sonarcloud. This is done automatically by Sonarcloud when I push something to main.
+While not in the GitHub actions, the React site is also being monitored by Sonarcloud. This is done automatically by Sonarcloud when I push something to main.
 
 # Docker
-When the docker images are on docker hub, I can pull it to my home server where I run the API and the site. To run all the service in docker, I made a docker compose. The docker compose file contains:
+When the docker images are on Docker hub, I can pull them to my home server where I run the API and the site. To run all the services in docker, I made a Docker-compose. The Docker-compose file contains:
 - react site
 - API
 - SQL container
@@ -238,9 +238,9 @@ services:
 With [Watchtower](https://containrrr.dev/watchtower/) The latest image gets pulled from Dockerhub. I configured watchtower to check Dockerhub every 10 minutes, so when I commit to the main branch it takes around 10 minutes for the new version to go live. This way, the deployment of new versions is automatic.
 
 # Eventify
-For Eventify my task was to deploy the API on my home server. We set up a GitHub action for all the services so that they get pushed to Dockerhub. From there, I made a docker compose file that pulled all the services from Dockerhub. In the docker compose, I also injected the connection string for the database. This was done so  we could have a different connection string on our local machines. With Watchtower, the images get pulled automatically every 10 minutes. 
+For Eventify my task was to deploy the API on my home server. We set up a GitHub action for all the services so that they get pushed to Dockerhub. From there, I made a Docker-compose file that pulled all the services from Dockerhub. In the Docker-compose, I also injected the connection string for the database. This was done so we could have a different connection string on our local machines. With Watchtower, the images get pulled automatically every 10 minutes. 
 
-docker compose file of evintify:
+docker-compose file of Eventify:
 ```yml
 version: "3.8"
 services:
