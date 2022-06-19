@@ -4,7 +4,6 @@ You use software **tooling and methodology** that continuously monitors and impr
 # Unit tests
 For the API i wrote some unit tests. this way when i made changes to the logic i could see if they still gave the exepected results. 
 
-
 # Static code analysis
 For the frontend and the backend i used sonarcloud to run static code analysis. the code analys for the API is in the cicd pipline. This way if i push to main i can see if i mised bugs or if there are vulnerabilities. as you can see below it test the code on not only on the safety but also on the qualtiy. 
 ![Sonarcloud 1](https://github.com/TjerkZ/S3-Dreamcatcher/blob/aa5efc06ecf2dcdce698a802109d36c3ace3e98f/assets/sonarcloud1.png)

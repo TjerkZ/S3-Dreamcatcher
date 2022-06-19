@@ -209,7 +209,29 @@ When the docker images are on docker hub, I can pull it to my home server where 
 
 And look like this:
 ```yml
-Compose file
+version: "2.0"
+services:
+  dream-service:
+    image:  tjerkzeilstra/s3-dreamcatcher-api:latest
+    ports:
+      - 5001:5001
+    environment:
+      ConnectionStrings__dreamContext: "Server=db;Database=dream;User=sa;Password=passord"
+    depends_on:
+      - db
+  react-site:
+    image: tjerkzeilstra/frontend:latest
+    ports:
+      - 3000:3000
+  db:
+      image: "mcr.microsoft.com/mssql/server:2019-latest"
+      environment:
+          SA_PASSWORD: "R9QgoT#Pm8"
+          ACCEPT_EULA: "Y"
+      volumes:
+        - ./mssql-db:/var/opt/mssql/data
+      ports:
+        - 1433:1433
 ```
 
 ## Watchtower
