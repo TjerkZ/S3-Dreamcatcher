@@ -21,4 +21,4 @@ Because the test ran every day the preformance and uptime of the server could be
 
 ## Dreamcatcher
 For dreamcatcher i also made intergration tests with postman. Whit this test I can see if the API is stil running and what the responce time of the server is. 
-![Intergation test.png]()
+![Intergation test.png](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/Integration%20test.png)
