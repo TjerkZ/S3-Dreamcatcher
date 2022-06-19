@@ -20,4 +20,5 @@ Because the test ran every day the preformance and uptime of the server could be
 ![eeventify_postman_monitor.png](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/eeventify_postman_monitor.png)
 
 ## Dreamcatcher
-For dreamcatcher i also made a intergration test with postman. 
+For dreamcatcher i also made intergration tests with postman. Whit this test I can see if the API is stil running and what the responce time of the server is. 
+![Intergation test.png]()
