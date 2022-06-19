@@ -16,7 +16,7 @@ For this semester I'm making an app that requires users to log in before they ca
 
 ## What is auth0
 Auth0 is an implementation of the OAuth 2.0 authentication protocol set up by the Internet Engineering Task Force. Oauth 2.0 which stands for open authorization, is made to give third-party apps limited access to an HTTP service. This is done by supplying an access token after successful authentication. This token is then sent along with the HTTP request and the server then authorizes the token and sends the protected data back.
-![[abstract_flow.png]]
+![abstract_flow.png](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/abstract_flow.png)
 
 ## Why should you use auth0
 One of the best things about auth0 is the ease of use. Writhing a good login system that is up to date with all the latest security protocols is a large and complicated task. And if you make your own login you need to make sure it stays secure. With auth0 you save all that work so, especially for smaller teams or individuals it's an easy way to get a secure and good login.
@@ -39,7 +39,7 @@ Since auth0 is based on Oauth2 they use the Authorization code flow of OAuth. Th
 
 The token is sent with the request to the API. The API itself can use this token to get the user information and at the same time see if the token is still valid.
 
-![[auth0-flow.png]]
+![auth0-flow.png](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/auth0-flow.png)
 
 For many frameworks, you don't even need to write the code for the API calls. Auth0 made plugins + start projects that you can use so the rate of development is even higher.
 

@@ -5,7 +5,7 @@ For this semester we had to deploy a full-stack web application with a CICD pipe
 ## What is docker
 Docker is made to streamline the process of deployment and hosting. If you want to deploy an application on docker you make a small virtual machine called a container. This has as advantage that you no longer need to worry about the problem that it runs on your machine but not on a server. This is because each container contains its own OS that is specifically designed for the application that is running. 
 As you can see in the picture below docker is installed on the OS and can run containers.
-![[container-what-is-container.png]]
+![container-what-is-container.png](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/container-what-is-container.png)
 ## Why should you use docker
 Docker was created to solve the problem: "It works on my machine". referring to the problem that an application doesn't work if it's deployed. Docker uses virtualization but instead of simulating an entire OS, it uses resource isolation in the OS kernel. This is more efficient than running Virtual machines. A virtual machine takes up more resources this is because a container is specifically made for the application it's running. So a server can run more containers than virtual machines.
 
@@ -38,3 +38,11 @@ Applications whit a graphical interface are not optimal. Docker is more designed
 
 # Conclusion
 Docker is really helpful for the deployment of applications and solves the 'it works on my machine' problem. There is no longer the need for a specific OS for the app to work and it is way more efficient than running a bunch of virtual machines. With docker hub, it is really easy to set up a good CICD pipeline. To pull these images you can use a docker-compose file where you configure the apps and run the application with one command.
+
+### sources
+[https://hub.docker.com](https://hub.docker.com)
+[https://www.docker.com/](https://www.docker.com/)
+[https://docs.docker.com](https://docs.docker.com)
+[https://opensource.com/resources/what-docker](https://opensource.com/resources/what-docker)
+
+
