@@ -14,6 +14,6 @@ We used tiga because one of the finnish teachers recomanded it.
 
 
 # Reacrh
-To better understand agiale work methods i did a reachers discovering diverent forms of agile and what teir benifits are
-[Agaile research]()
+To better understand agiale work methods i did a research discovering diverent forms of agile and what teir benifits are:
+![Agaile research]()
 
