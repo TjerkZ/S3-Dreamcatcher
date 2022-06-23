@@ -21,12 +21,12 @@ In this framework, there are 6 dimensions that culture is rated on. these are:
 - 5 long-term orientation vs. short-term orientation
 - 6 indulgence vs. restraint
 
-![hofsted's framework]()
+![hofsted's framework](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/hofstede.jpg)
 
 ## Personal experiences
 In software, the likely hood of you meeting or cooperating with people from different cultures is high, to say the least. This semester I did a group project with 2 teams from Finland. They both made a frontend and we were responsible for the backend. Communication was an important aspect of the project since we were in different countries for the majority of the time. During the project we had weekly meetings and every 3 or 4 weeks a sprint review. 
 
-When we started the project [Timo](), [Rens]() and myself went to Finland to meet the Finnish students. In the Last week of the project the Finnish students came to Eindhoven so we could show our final product. During these 2 weeks and in the online meetings, I noticed some differences. [AFMAKEN]
+When we started the project [Timo](https://github.com/timojw/), [Rens](https://github.com/RensVlooswijk/) and myself went to Finland to meet the Finnish students. In the Last week of the project the Finnish students came to Eindhoven so we could show our final product. During these 2 weeks and in the online meetings, I noticed some differences. [AFMAKEN]
 
 ## Differences in the cultural dimensions framework
 What I experienced while working on the project is that our cultures don't differ that much. Looking at the dimensions framework the Netherlands and Finland score verry close to eachother with only minor differences. [AFMAKEN]
