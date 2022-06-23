@@ -10,10 +10,10 @@ For managing the project we used [Taiga](https://tree.taiga.io/). With Taiga, we
 
 We used Tiga because one of the Finnish teachers recommended it. 
 
-![taiga image]()
+![taiga image](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/Taiga.png)
 
 
 # Research
 To better understand agile work methods I did research discovering different forms of agile and what their benefits are:
 
-## [Agaile research]()
+## [Agaile research](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/Research/ethics.md)
