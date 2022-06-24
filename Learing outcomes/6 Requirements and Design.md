@@ -23,9 +23,9 @@ The benefits of microservices are:
 
 ![Eeventify-backend-diagram](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/eevenity-backend-diagram.png)
 
-At the start of the project, we planned out how we wanted the backend to work. And after some time we settled on the picture above. This way we could all work on a service or deployment of these in my case and have more progress. The architecture that we made turntout to be quite good. This is without a doubt the best thouth out project i have work on.
+At the start of the project, we planned out how we wanted the backend to work. And after some time we settled on the picture above. This way we could all work on a service or deployment of these in my case and have more progress. The architecture that we made turned out to be quite good. This is without a doubt the best thought-out project I have worked on.
 
-In our desing every service is run in a docker container and functions on its own. To access the services we set up a gateway that routes to the correct service. each service has is onw porpose and uses its own database. 
+In our design, every service is run in a docker container and functions on its own. To access the services we set up a gateway that routes to the correct service. each service has its purpose and uses its own database. 
 
 ### Source
 - [What is microservices architecture?](https://cloud.google.com/learn/what-is-microservices-architecture)
@@ -33,6 +33,6 @@ In our desing every service is run in a docker container and functions on its ow
 ## Individual project
 ![C3 model](https://github.com/TjerkZ/S3-Dreamcatcher/blob/9206bc2a88d0cbde1c16a488093df0c97034036a/assets/C3.png)
 
-For my indiviual project i made a not very complex architecture sinse my application was not that complex so using microservices was overkill.
+For my individual project, I made a not very complex architecture since my application was not that complex so using microservices was overkill. Instead, I chose to make a react site and an API. What I did do is run everything in containers. This way it's easier to deploy/run the application.
 
-What i did do is run everythin in containers. This way its easyer to deploy/run the application.
+For my project, I used an external login from Auth0. The main reason to use an external login is that it is probably more secure than something I could make. It also has nice features like login with Google, Facebook, Github, etc... 
