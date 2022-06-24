@@ -3,7 +3,7 @@
 
 # User story
 At the start of I created a project board in Github. I used this board like a Kanban board with user storys on the cards. The stories look like this:
-![user story]()
+![user story](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/UserStory.png)
 
 In the card i state all the tasks that need to be done and the cirteria of when its done. 
 
@@ -16,7 +16,7 @@ For the group project we used a microserices architecture. this means a larger p
 
 
 
-![Eeventify-backend-diagram]()
+![Eeventify-backend-diagram](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/eevenity-backend-diagram.png)
 
 At the start of the project we pland out how we wanted the backen to work. And after some time we setteld on the picture above. This way we could all work on a service or deployment of these in my case and have more progress.
 
