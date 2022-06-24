@@ -26,7 +26,7 @@ In a scrum there are some names for people involed in the project. The terminolo
 
 ## how does scrum work?
 A project start by writing user stories witch are stories of what a user of the software wants to be able to do whitin the application. these sories are then placed in a list called the product backlog. The user stories in the backlog are given a priority on what needs to be first developt. A popuar method to give priority is MOSCOW. At the beginning of a sprint you have a sprint planning where you dicide what userstories are going to make. These userstories are placed in the sprintbacklog. While in the sprint there is a daily standup alos known as daily scrum where every team meber says what they did and what their going to do. When the sprint is over there is a sprint review. In this review the progress is shown to the product owner. The product owner also needs to aprove the made fucntionalties. Afther the review the backlog is updated for changes and ther is a retrospective. In the retrospective you looking at what you are goeing to do divently next sprint. afther that you make a new sprint planning.
-![scrum]()
+![scrum](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/scrum-diagram.png)
 
 # Kanban
 Kanan is a aglile work method and has as strong point that the work is visualised on a kanbanboard. On such a canbanboard there are rows that have cards in them. On every card there is a task and someone that is working on that task. The way Kanban works there is full trancparancy of the work. 
@@ -44,10 +44,10 @@ Before and during devolopment there is a set ammount of cards that can be on in 
 
 # Extreme Programming
 Extreme programming is also a popular method of working agile with focus on software quality. It has a short development cycles with the intend of improving productifty. The way work is pland is that you only develop functionaltys when they are needed. In the image below you can see the extrem programming planning/feedback loops:
-![feedbackloop image]()
+![feedbackloop image](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/extreme%20programming.png)
 
-# What i learnd
-There are many forms of agile 
+# What I learnd
+There are many methods to work in a agile way and every from has is strengs and weakneses. The best agile way depends realy on the project and people how use it. For example Kanban is very easy to understand and good for projects that can change quicly. Where scrum has more rules and every team meber needs to undestand these. This may make it more suitible for advanced projects. In concluision the best way to work agile is to discuse with the team and look at the project and dicide what works best.[AFMAKEN]
 
 
 
