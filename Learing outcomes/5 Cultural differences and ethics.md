@@ -31,5 +31,5 @@ When we started the project [Timo](https://github.com/timojw/), [Rens](https://g
 ## Differences in the cultural dimensions framework
 What I experienced while working on the project is that our cultures don't differ that much. Looking at the dimensions framework the Netherlands and Finland score very close to each other with only minor differences. In each category we score fairly close to Finland the real differences are in Masculinity, long-term orientation, and individualism. On the scale you can see that Finland is more masculine this indicates that society is more driven by competition and achievements. something I think is more present in the Finnish culture. On individualism, we score higher and I also saw that in the form that they were proud to be Finnish and of the things Finland has accomplished. despite falling roughly in the same category of culture the differences were noticeble.
 
-![country-comparison/finland,the-netherlands]()
+![country-comparison/finland,the-netherlands](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/finlandVSnetherlands.png)
 > [source](https://www.hofstede-insights.com/country-comparison/finland,the-netherlands/)
