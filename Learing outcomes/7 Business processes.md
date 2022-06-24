@@ -2,13 +2,13 @@
 > You can explain simple business processes and relate them to the development of your software project.
 
 # What is a business process
-A business process is a process in a business that has input and output. It is the process of how work is done. In a business, there can be many actors but not everyone does the same job they have a role. Every role has its job and changes the process. to summarize a business process is a sequence of activities designed to create value. The importance of such a process is that it can change the time or cost of activities and make the work more streamlined. This can have a big impact on the organization and how successful they are.
+A business process is a process in a business that has input and output. It is the process of how work is done. In a business, there can be many actors but not everyone does the same job they have a role. Every role has its job and changes the process. To summarize a business process is a sequence of activities designed to create value. The importance of such a process is that it can change the time or cost of activities and make the work more streamlined. This can have a big impact on the organization and how successful they are.
 
 # Business process and software
 Almost all the work that is done in a business is part of a process. And all of the work that gets done we make detailed notes so we can keep track of the processes that have been done in the past. Before computers, this all got done by hand and we needed many people filling out forms and sending them around to other sectors or businesses. The role of software or IT is to streamline or automate these processes. 
 
 # Business process in my application
-Our group project Eeventify is a social media app that focuses on making events to meet new people. Of course, there will be individuals that make events that are not legal or use language in the description that is racist. To combat this there will be a report button and when multiple people report an event it gets reviewed. This of course is a business process that can be automated.
+Our group project Eeventify is a social media app that focuses on making events to meet new people. Of course, there will be individuals that make events that are not legal or use language in the description that is discriminating. To combat this there will be a report button and when multiple people report an event it gets reviewed. This of course is a business process that can be automated.
 
 For this process I made a diagram that shows the process:
 
