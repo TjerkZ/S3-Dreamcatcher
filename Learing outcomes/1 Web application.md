@@ -23,6 +23,18 @@ For the backend, I made an API with C# ASP.NET core. This API provides the data 
 For the documentation of the API, I used Swagger. Swagger auto documents the API and gives an easy-to-use user interface. You can see all the endpoints and test them this way it is easier to implement them in the frontend.
 ![swagger.png](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/Swagger.png)
 
+# C4
+The models below show how the project dreamcatcher is set up and how the different components interact with each other.
+
+## C2
+In the c2 diagram below you see that a user has access to the dreamcatcher react site. The site uses the external service Auth0 to authenticate the user. The site can send HTTP requests to the API to retrieve data in JSON format.
+
+![C2 model](https://github.com/TjerkZ/S3-Dreamcatcher/blob/7d72e6135eed8d9864bb8c081bea2c1d2d5b754e/assets/C2.png)
+
+## C3
+This C3 model shows how the API is set up and how all the components depend on each other. As you can see the controller uses the authenticator to see if the provided authentication token is valid. after that, it requests data from the logic layer. The logic gets all the required data from the DAL and sends it back. lastly, the controller makes a JSON from the data and sends it to the react site.
+![C3 model](https://github.com/TjerkZ/S3-Dreamcatcher/blob/9206bc2a88d0cbde1c16a488093df0c97034036a/assets/C3.png)
+
 ## Automapper
 In the API, I used a 3-layer architecture. Between the layers, there are models to transfer data but instead of mapping the models manualy, I use Automapper. For Automapper to map classes you need to provide it with a profile. In this profile, you can configure what properties get mapped.
 

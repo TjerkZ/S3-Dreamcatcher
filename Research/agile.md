@@ -49,8 +49,6 @@ Extreme programming is also a popular method of working agile with focus on soft
 # What I learnd
 There are many methods to work in a agile way and every from has is strengs and weakneses. The best agile way depends realy on the project and people how use it. For example Kanban is very easy to understand and good for projects that can change quicly. Where scrum has more rules and every team meber needs to undestand these. This may make it more suitible for advanced projects. In concluision the best way to work agile is to discuse with the team and look at the project and dicide what works best.[AFMAKEN]
 
-
-
 # sources
 - [agile canvas](https://fhict.instructure.com/courses/12075/pages/project-management-agile-why-and-how?module_item_id=749676)
 - [manifesto](https://agilemanifesto.org/)
@@ -58,6 +56,3 @@ There are many methods to work in a agile way and every from has is strengs and 
 - [scrum.org](https://www.scrum.org/resources/what-is-scrum)
 - [digite.com](https://www.digite.com/agile/scrum-methodology/)
 - [agilescrumgroup.nl](https://agilescrumgroup.nl/wat-is-scrum-methode/)
-
-
-

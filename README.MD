@@ -21,19 +21,6 @@ This document is all the progress I made in semester 3 it contains all the resea
 # DreamCatcher
 This semester I made an app called dreamcatcher. the function of the app is a place to store your dreams. So when you had a dream you write it down in the app. When you had multiple dreams you can see statics about your dreams.
 
-# C4
-The models below show how the project dreamcatcher is set up and how the different components interact with each other.
-
-## c2
-In the c2 diagram below you see that a user has access to the dreamcatcher react site. The site uses the external service Auth0 to authenticate the user. The site can send HTTP requests to the API to retrieve data in JSON format.
-
-![C2 model](https://github.com/TjerkZ/S3-Dreamcatcher/blob/7d72e6135eed8d9864bb8c081bea2c1d2d5b754e/assets/C2.png)
-
-
-## C3
-This C3 model shows how the API is set up and how all the components depend on each other. As you can see the controller uses the authenticator to see if the provided authentication token is valid. after that, it requests data from the logic layer. The logic gets all the required data from the DAL and sends it back. lastly, the controller makes a JSON from the data and sends it to the react site.
-![C3 model](https://github.com/TjerkZ/S3-Dreamcatcher/blob/9206bc2a88d0cbde1c16a488093df0c97034036a/assets/C3.png)
-
 # Learing outcomes
 These are the learning outcomes with a small description for this semester. 
 |number|outcome|discription|    
