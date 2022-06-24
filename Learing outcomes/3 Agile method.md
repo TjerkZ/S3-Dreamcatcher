@@ -1,7 +1,5 @@
 # Agile method
 You can implement the software process for your project according to a given agile software development method.
-test
- 
 
 # Group project 
 For the group project, we used the agile work method scrum. We chose this because the Finnish students as well as ourself had worked with this method before. We discussed using a Kanban board but decided against it because there are no sprints. And since we worked separately it was better we had sprints with sprint reviews at the end. This way everyone was up to date on what was done and still needed to be worked on.

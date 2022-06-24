@@ -46,8 +46,8 @@ Before and during devolopment there is a set ammount of cards that can be on in 
 Extreme programming is also a popular method of working agile with focus on software quality. It has a short development cycles with the intend of improving productifty. The way work is pland is that you only develop functionaltys when they are needed. In the image below you can see the extrem programming planning/feedback loops:
 ![feedbackloop image](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/extreme%20programming.png)
 
-# What i learnd
-There are many forms of agile [AFMAKEN]
+# What I learnd
+There are many methods to work in a agile way and every from has is strengs and weakneses. The best agile way depends realy on the project and people how use it. For example Kanban is very easy to understand and good for projects that can change quicly. Where scrum has more rules and every team meber needs to undestand these. This may make it more suitible for advanced projects. In concluision the best way to work agile is to discuse with the team and look at the project and dicide what works best.[AFMAKEN]
 
 
 
