@@ -12,7 +12,7 @@ Our group project Eeventify is a socail media app that focus on making event to 
 
 For this process i made a diagram that shows the procces:
 
-![business proces]()
+![business proces](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/report%20event.png)
 
 In this process the software automates the task of fileing a report, notifiying the users, sending the report to the content manager, and removing the event. By making this all automated the time it takes to report and remove a event is reduced.
 
