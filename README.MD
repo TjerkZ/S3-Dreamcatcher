@@ -4,9 +4,6 @@ This document is all the progress I made in semester 3 it contains all the resea
 
 ## Table of content
 - [Introduction](#introduction)
-- [C4](#c4)
-    - [C2](#c2)
-    - [C3](#c3)
 - [Learing outcomes](#learing-outcomes)
     - [Persenal project](#personal-learing-outcomes)
     - [Group project](#group-project-outcomes)

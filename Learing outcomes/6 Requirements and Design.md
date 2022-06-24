@@ -7,7 +7,7 @@ At the start of the project, I created a project board on Github. I used this bo
 
 In the card, I state all the tasks that need to be done and the criteria of when it's done. 
 
-# Architectural designs
+# design
 
 ## Eevenitfy
 
@@ -26,6 +26,9 @@ The benefits of microservices are:
 At the start of the project, we planned out how we wanted the backend to work. And after some time we settled on the picture above. This way we could all work on a service or deployment of these in my case and have more progress. The architecture that we made turned out to be quite good. This is without a doubt the best thought-out project I have worked on.
 
 In our design, every service is run in a docker container and functions on its own. To access the services we set up a gateway that routes to the correct service. each service has its purpose and uses its own database. 
+
+For the fontend of the project we desinged a UI using the user stories:
+![fronedent]()
 
 ### Source
 - [What is microservices architecture?](https://cloud.google.com/learn/what-is-microservices-architecture)
