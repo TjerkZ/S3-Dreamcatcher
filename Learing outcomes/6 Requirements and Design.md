@@ -28,7 +28,7 @@ At the start of the project, we planned out how we wanted the backend to work. A
 In our design, every service is run in a docker container and functions on its own. To access the services we set up a gateway that routes to the correct service. each service has its purpose and uses its own database. 
 
 For the fontend of the project we desinged a UI using the user stories:
-![fronedent]()
+![frotend](https://github.com/TjerkZ/S3-Dreamcatcher/blob/main/assets/UIdesing.jpg)
 
 ### Source
 - [What is microservices architecture?](https://cloud.google.com/learn/what-is-microservices-architecture)
